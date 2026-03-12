@@ -1,0 +1,54 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+background:#f4f6f9;
+margin:0;
+padding:0;
+}
+
+.container{
+width:600px;
+margin:40px auto;
+}
+
+h1{
+text-align:center;
+}
+
+.form{
+background:white;
+padding:20px;
+border-radius:8px;
+box-shadow:0 2px 6px rgba(0,0,0,0.1);
+}
+
+input, textarea{
+width:100%;
+padding:10px;
+margin-top:10px;
+border:1px solid #ddd;
+border-radius:4px;
+}
+
+button{
+margin-top:10px;
+padding:10px 15px;
+border:none;
+background:#4CAF50;
+color:white;
+border-radius:4px;
+cursor:pointer;
+}
+
+button:hover
+
+.notes-grid{
+margin-top:20px;
+}
+
+.note{
+background:white;
+padding:15px;
+border-radius:8px;
+margin-bottom:10px;
+box-shadow:0 2px 6px rgba(0,0,0,0.1);
+}
